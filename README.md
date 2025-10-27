@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Live Demo  
-🔗 **This project is live at:** [https://your-live-site-link.com](https://your-live-site-link.com)
+🔗 **This project is live at:** [🫴Click here to access the live site👈](https://chaitanya1436.github.io/SnapRead/)
 
 ---
 
